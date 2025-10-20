@@ -1,0 +1,7 @@
+Ver 1.0 initially created for Week 202.
+
+Description: Lucky Strike and Peerless Lumberjack talents increased to near 100% from 1%. Rank requirements only need half the investment.
+
+Files Affected:
+D_Talents
+D_TalentRanks

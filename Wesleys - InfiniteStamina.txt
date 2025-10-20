@@ -1,0 +1,9 @@
+Ver 1.0 initially created for Week 202.
+
+Description: Infinite Stamina for Player and Mounts. Stamina consumption is a % of total stamina per SECOND, while stamina regen is a flat value per MINUTE. Take (MaxStamina/consumption rate/second) x 60 seconds = breakeven stamina regen per MINUTE then add an arbitrary number of your choosing to ensure you get just a hair more stamina than consumed per server tick. 
+
+Also, increased based carrying weight for the player, increased fall damage resistance %, and moderately increased base health regen for both player and horse mount (only). 
+
+Files Affected:
+D_CharacterStartingStats
+D_AIGrowth

@@ -1,0 +1,6 @@
+Ver 1.0 initially created for Week 202.
+
+Description: Respec points do not any Ren. Refunded points do not give ren. 
+
+Files Affected:
+D_CurrencyConversions

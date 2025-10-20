@@ -1,0 +1,27 @@
+Ver 1.0 initially created for Week 202.
+
+Description: Overhaul Mod. 
+
+Armor-All early workshop armor come with meal and h20 slots (normally just only o2 slot). Module slots doubled from 2 to 4 for early armor up to S5 Fermi. 
+
+Energy Consumption-Drills consume only 500 vs 2500 energy units. 
+
+Energy Generation -Renewables ie solar, wind, hydro wheel, all produce 50% more energy and are always active regardless of placement
+
+Crafting Costs- 
+Biofuel can costs 5 iron ingots, not 25. Can hold up to 10x the original amount 2000 to 20000 units. 
+Omnidirectional and Worklamps cost 50% less across each ingredient. 
+Cement Mix produces 10x for the same cost as base.
+
+Crafting Speed-
+Gold, Aluminum, Platinum, and Titanium crafting speed reduced to be on par with Iron, Copper (about 1-3 seconds longer)
+
+Mining Speed-
+Base drill mining speed set to about 1.2 ores/second. 
+
+Item Stacking - 
+Max stacks raised to 5000 for building resources. Max stacks raised to 500 for most consumables - ammo, meat, etc.
+
+
+Files Affected:
+see overhaul.jpg

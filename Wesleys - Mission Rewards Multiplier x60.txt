@@ -1,0 +1,7 @@
+Ver 1.0 initially created for Week 202.
+
+Description: Mission completion rewards (Ren+Exotics) with 60x multiplier for the time spent. Should only affect campaign missions for the time invested in building up from scratch vs a permanent base on an open world. 3x experience for in-game activities i.e. crafting, mining, combat, skinning, cooking, etc.
+
+Files Affected:
+D_ExperienceEvents
+D_FactionMissions
