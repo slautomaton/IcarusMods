@@ -14,14 +14,14 @@
       }
     },
     {
-      "name": "Wesleys - Balance Overhaul",
+      "name": "Wesleys - Balance++",
       "author": "slautomaton",
       "version": "1.0",
       "week": "202",
       "compatibility": "all",
-      "description": "Overhaul a number of things to ease on the grind for working adults.",
+      "description": "Chnaged a number of things to ease on the grind for working adults.",
       "imageURL": "overhaul.jpg",
-      "readmeURL": "Wesleys - Balance Overhaul.txt",
+      "readmeURL": "Wesleys - Balance++.txt",
       "files": {
           "exmodz": "https://github.com/slautomaton/IcarusMods/upload/main/Wesleys - Balance Overhaul.EXMODZ"
       }
@@ -67,3 +67,4 @@
     }
    ]
  }
+
