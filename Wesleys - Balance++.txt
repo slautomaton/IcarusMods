@@ -1,7 +1,43 @@
 Ver 1.1 thru w203.
 
-Description: Overhaul Mod for gamers on limited grind time. Merger of select overhaul mods.
+Description: Changed several things to make the difficulty almost trivial for those with busy schedules, short of directly giving yourself an arbitrary amount of mission rewards.
+
+Unlimited Solar - Solar panels supply 25000 power units and remain active/on regardless of position. 
+Free Respecs - Talent Respecs no longer cost anything.
+Mission Rewards and XP Multiplier - Campaign mission rewards and exp granted increased by 60x. Open world mission rewards generally increased by times 100. In-game chore xp is generally 3x more (crafting, chopping, mining, cooking)
+Infinite Stamina - Applies to character, and the mounts: moa, horse, and buffalo
+World Bosses - Increased cave worm boss spawn count to 5 (the max) from 3. Increase alpha wolf spawn count to 7-9 (max is 17) on the Olympus map.
+Stack Sizes - Inventory stacks increased by 10x or 100x for items. 
+Talents Reworked - LuckStrike and Lumberjacks talent rate at 100% not 1%. Solo Talent health and damage buffs increased for max survivability, short of immortality. 
+Misc: 
+- Crafting in materials processor should be faster than mortar and pestle. 
+- Biofuel cans cost 5 iron, not 25 iron
+- Durability of the workshop tools is much higher.
+- Most of the recipes of tiers 3 and 4 are now cheaper, to remove the frustrating grind and make progression more smooth. Removed “the grind wall” between T3 and T4.
+- Crossbow bolts are more expensive and give a much stronger punch.
+- Thermoses are now buffed and have longer effects.
+- Plants grown in the plots provide as many resources as when collected with a sickle (stone sickle) in the wild.
+- Pickled food do not spoil.
+- Reduced waterskin leakage.
+- Reduced shotgun shell gunpowder crafting cost.
+- Dropship/cargo/loadout slots expanded to 60.
+- Envirosuits have more upgrade module slots.
+- BioFuel Deep Mining Drill does not require electronics and cheaper to build.
+- Workshop Armor Sets have increased durability and much better stats.
+- Deep mining drills works faster.
+- Ice box and fridge spoil rate 10X slower.
+- Workshop furnace is equal to concrete furnace tier.
+- Can create charcoal in campfire from wood.
+- Workshop Bolts and Crossbows have better stats.
+- Sleep buff duration increased up to 2400 seconds for interior wood bed.
+- Mounts have better stats.
+- Waterwheel, water pump, electricity and pipe tool can be crafted on T3 Machining Bench.
+- Waterwheel, solar panel and biofuel generator produce more energy.
+- Material Processor works faster and can craft tree sap from wood.
+- Glass can be produced in Stone Furnace.
+
 
 Files Affected:
 see overhaul.jpg
+
 
